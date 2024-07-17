@@ -45,7 +45,7 @@ Interactive graphs
 ## Analysis Ideas
 1) Descriptive statistics
   - total number of different observators over time
-  - total number of visitors over time
+  - total number of visitors over time (month/year)
 
 2) Temporal trends (with relative and not absolute numbers):
 - daily, monthly, yearly trends?
