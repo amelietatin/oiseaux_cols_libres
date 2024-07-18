@@ -50,6 +50,7 @@ Interactive graphs
 2) Temporal trends (with relative and not absolute numbers):
 - daily, monthly, yearly trends?
 - hour of observation: peak time?
+- hour rate Milan
 
 3) Species analysis
   - total number of observations (=individuals)
