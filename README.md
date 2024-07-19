@@ -1,18 +1,3 @@
-## Different features (N = numeric, C = categoric)
-
-- Number of observators (N)
-- Number of visitors (N)
-
-- Date (N)
-- Hour (N)
-- Temperature (N)
-- Weather (C)
-
-- Species name (C)
-- Number of individuals (N)
-- Individuals' age (C)
-- Sex (C)
-
 ## Data visualisation
 https://www.data-to-viz.com/#explore
 https://www.data-to-viz.com/caveats.html
@@ -42,7 +27,7 @@ Several groups
 Interactive graphs
 *Plotly
 
-## Analysis Ideas
+## Brainstorming Ideas
 1) Descriptive statistics
   - total number of different observators over time
   - total number of visitors over time
