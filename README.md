@@ -47,20 +47,26 @@ Interactive graphs
   - total number of different observators over time
   - total number of visitors over time
 
+
 2) Temporal trends (with relative and not absolute numbers):
 - daily, monthly, yearly trends?
 - hour of observation: peak time?
+- Start-end hour analysis. Mean duration of observation per month/year?
 
 3) Species analysis
   - total number of observations (=individuals)
   - species frequency (the most frequently observed species?)
+  - divide month by 3 (0-10, 10-20, 20-30)
+  - Species abundance monthly (on the same graph?) yearly? (per species)
   - species diversity (ex: Shannon diversity per month/year)
-  - species richness (nb ob species over time?)
-  - seasonal changes
+  - species richness (nb ob species over time?) (local vs migrating species)
+  - Which local species is mostly observed? How many consecutive days?
+  - Number of individuals per migrating species group (solitary or social migration?) Per timestamp? What is the threshold?
 
 4) Demographic analysis
-- Age class and sex Distribution for each species
+- Age class (1 years old, older than 1 year, 2 years old, 3 years old, 4 years old, strict adult) and sex Distribution for each species
 - Seasonal Changes: how age class and sex distribution change over the months/years
+- maybe young red kites are migrating earlier in the year?
 
 5) Weather/temperature
 ++ If we miss information about a temperature we can find this information with an API
@@ -68,6 +74,8 @@ Interactive graphs
 
 6) Observators/visitors
 - Investigate how the number of visitors and observators impacts the number of observations
+
+
 
 7) Advanced statistical analysis
 - Regression analysis: identify predictors of bird presence?
