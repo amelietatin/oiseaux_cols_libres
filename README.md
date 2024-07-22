@@ -35,7 +35,7 @@ Interactive graphs
 
 2) Temporal trends (with relative and not absolute numbers):
 - daily, monthly, yearly trends?
-- hour of observation: peak time?
+- hour of observation: peak time? (il faudrait regarder du lever au coucher du soleil pour ca)
 - Start-end hour analysis. Mean duration of observation per month/year?
 
 3) Species analysis
@@ -47,6 +47,7 @@ Interactive graphs
   - species richness (nb ob species over time?) (local vs migrating species)
   - Which local species is mostly observed? How many consecutive days?
   - Number of individuals per migrating species group (solitary or social migration?) Per timestamp? What is the threshold?
+  - RPI long term/short term
 
 4) Demographic analysis
 - Age class (1 years old, older than 1 year, 2 years old, 3 years old, 4 years old, strict adult) and sex Distribution for each species
@@ -59,6 +60,7 @@ Interactive graphs
 
 6) Observators/visitors
 - Investigate how the number of visitors and observators impacts the number of observations
+
 
 
 
